@@ -1,0 +1,7 @@
+# metis-dapp
+A Fundraising Next app on Metis Testnet
+## WHAT YOU CAN DO ?
+
+* YOU CAN RAISE A FUNDING
+* CONTRIBUTE TOFUNDING
+* WITHDRAW THE FUNDING IF 50% OF PEOPLE AGREE
